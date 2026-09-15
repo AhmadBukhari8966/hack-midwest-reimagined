@@ -1,4 +1,4 @@
-# Hack Midwest — Reimagined
+# Hack Midwest Reimagined
 
 A responsive Hack Midwest event website with a blue visual theme, horizontal challenge and award cards, schedule, FAQ, rules, and original sponsor logos.
 
